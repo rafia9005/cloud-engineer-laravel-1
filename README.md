@@ -11,7 +11,11 @@
 
 ``
 git clone https://github.com/rafia9005/cloud-engineer-laravel-1.git
+``
+``
 composer install
+``
+``
 php artisan migrate
 ``
 
