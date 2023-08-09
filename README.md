@@ -9,17 +9,14 @@
 
 ## INSTALASI
 
-``
+cara install nya
+```bash
 git clone https://github.com/rafia9005/cloud-engineer-laravel-1.git
-``
-``
+cd cloud-engineer-laravel-1
 composer install
-``
-``
 php artisan migrate
-``
+php artisan serve
+```
 
-admin : rafia9005@gmail.com
-pass : rafia9005
 
-user : register aja nanti otomastis kebuat
+jangan lupa aktifkan mysql mu dan konek db ke .env
